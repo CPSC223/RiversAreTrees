@@ -1,0 +1,12 @@
+Tributary,Parent,FlowRate,Dams
+Columbia,,740.0,Grand Coulee Dam (1942);Bonneville Dam (1938)
+Willamette,Columbia,35.5,Willamette Falls Dam (1885)
+Snake,Columbia,54.2,Hells Canyon Dam (1967);Little Goose Dam (1970);Brownlee Dam (1959)
+Pend Oreille,Snake,44.1,Boundary Dam (1967);Seven Mile (1979);Waneta Dam + Expansion (1954)
+Salmon,Snake,16.8,Dworshak Dam (1973)
+Flathead,Pend Oreille,29.8,Hungry Horse Dam (1953);Seli’š Ksanka Qlispe’ Dam also called Kerr Dam (1938)
+Clark Fork,Pend Oreille,33.7,Thompson Falls Dam (1915);Noxon Rapids Dam (1959);Cabinet Gorge Dam (1952)
+Boise,Salmon,15.0,Arrowrock Dam (1915);Lucky Peak Dam (1955)
+Payette,Salmon,12.5,Black Canyon Dam (1924)
+Kootenai,Flathead,27.4,Libby Dam (1975);Coora Linn Dam (1932);Upper Bonnington Falls Dam (1916)
+Spokane,Flathead,24.6,Little Falls Dam (1911);Long Lake Dam (1915)
